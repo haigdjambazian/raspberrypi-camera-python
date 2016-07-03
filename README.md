@@ -52,4 +52,5 @@ Install Python3
 ```
 sudo apt-get install python3-pip
 pip-3.2 install --user "picamera[array]"
+pip-3.2 install --user -U picamera
 ```
