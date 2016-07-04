@@ -43,14 +43,14 @@ Install picamera for Raspbian
 
 Following: http://picamera.readthedocs.io/en/release-1.10/install3.html
 
+Install python and picamera
+---------------------------
 ```
 sudo apt-get update
 sudo apt-get install python3-picamera
-```
-Install Python3
 
-```
 sudo apt-get install python3-pip
 pip-3.2 install --user "picamera[array]"
 pip-3.2 install --user -U picamera
 ```
+
