@@ -1,3 +1,5 @@
+# From http://picamera.readthedocs.io/en/release-1.10/recipes2.html#splitting-to-from-a-circular-stream
+
 import io
 import random
 import picamera
